@@ -2,7 +2,7 @@
 
 ## **Storage Troubleshoot**
 ### chkdsk
-- **chkdsk**: This command stands for “Check Disk.” It scans the file system and file system metadata of a volume for logical and physical errors. 
+- This command stands for “Check Disk.” It scans the file system and file system metadata of a volume for logical and physical errors. 
 
 #### Here's how to use it:
 1. Find the cmd prompt
