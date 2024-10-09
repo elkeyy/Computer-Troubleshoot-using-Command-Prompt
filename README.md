@@ -13,11 +13,9 @@ chkdsk
 
 ![374924597-dc637c62-2731-40dc-93a1-c85d4d24e253](https://github.com/user-attachments/assets/60691a44-6a6d-464f-9182-ba10ea4bfc6e)
 
-
 After checking several minutes and without **Error**, here's what it looks like:
 
 ![374925612-47a1f8e5-cb62-4c91-87a8-2b9b90604ab5](https://github.com/user-attachments/assets/81e9c92b-9165-4855-892f-79a31c8d5459)
-
 
 > [!WARNING]
 > If the Check Disk Error here's what you need to do.
@@ -32,7 +30,7 @@ After checking several minutes and without **Error**, here's what it looks like:
 chkdsk /r
  and hit Enter.
 
-![374927523-8fb7e04b-50d8-4b5d-be33-f44ae450d209](https://github.com/user-attachments/assets/cef6e9d8-5fb4-49a7-a04a-2f774701b4a5)
+![374927523-8fb7e04b-50d8-4b5d-be33-f44ae450d209](https://github.com/user-attachments/assets/111b644c-b8b9-429f-b859-f518b806745a)
 
 > [!TIP]
 > Another tip for troubleshooting using a cmd.
