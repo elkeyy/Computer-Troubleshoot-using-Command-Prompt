@@ -32,6 +32,8 @@ chkdsk /r
 
 ![374927523-8fb7e04b-50d8-4b5d-be33-f44ae450d209](https://github.com/user-attachments/assets/111b644c-b8b9-429f-b859-f518b806745a)
 
+Then wait for a several minutes for automatic repairing your storage.
+
 > [!TIP]
 > Another tip for troubleshooting using a cmd.
 
