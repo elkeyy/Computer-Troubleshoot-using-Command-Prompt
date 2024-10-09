@@ -7,9 +7,7 @@
 #### Here's how to use it:
 1. Find the cmd prompt
 2. **Run as Administrator** to have the necessary permissions.
-3. Type 
-chkdsk
- and hit Enter.
+3. Type ```chkdsk``` and hit Enter.
 
 ![374924597-dc637c62-2731-40dc-93a1-c85d4d24e253](https://github.com/user-attachments/assets/60691a44-6a6d-464f-9182-ba10ea4bfc6e)
 
@@ -26,9 +24,8 @@ After checking several minutes and without **Error**, here's what it looks like:
 #### Here's how to use it:
 1. Find the cmd prompt
 2. **Run as Administrator** to have the necessary permissions.
-3. Type 
-chkdsk /r
- and hit Enter.
+3. Type ```chkdsk /r``` and hit Enter.
+4. Type ```Y``` (Yes) and hit Enter.
 
 ![374927523-8fb7e04b-50d8-4b5d-be33-f44ae450d209](https://github.com/user-attachments/assets/111b644c-b8b9-429f-b859-f518b806745a)
 
@@ -43,9 +40,7 @@ Then wait for a several minutes for automatic repairing your storage.
 #### Here's how to use it:
 1. Find the cmd prompt.
 2. **Run as Administrator** to have the necessary permissions.
-3. Type 
-sfc /scannow
- and hit Enter.
+3. Type ```sfc /scannow``` and hit Enter.
 
 ![374935622-eed46299-3a98-40ff-884f-a4ebfc002c7c](https://github.com/user-attachments/assets/27ff3372-c616-45d8-b119-cc9aa32a54f8)
 
@@ -57,15 +52,14 @@ sfc /scannow
 #### Here's how to use it:
 1. Find the cmd prompt.
 2. **Run as Administrator** to have the necessary permissions.
-3. Type 
-ipconfig
- and hit Enter.
+3. Type ```ipconfig``` and hit Enter.
 
 #### **Key Options:**
 - **ipconfig /all**: Displays detailed information about all network interfaces.
 - **ipconfig /release**: Releases the current IP address.
 - **ipconfig /renew**: Renews the IP address from the DHCP server.
-- **ipconfig /displaydns**: Displays the contents of DNS cache.
-- **ipconfig /flushdns**: Clears the DNS resolver cache.
+- **ipconfig /displaydns**: Displays the contents of DNS cache, it holds all the recently domain names and their IP Addresses.
+- **ipconfig /flushdns**: Clears the DNS resolver cache, which can help with connectivity issues.
+
 
 Using ipconfig, you can quickly identify connectivity problems, ensure your network settings are correct, and refresh your connection.
