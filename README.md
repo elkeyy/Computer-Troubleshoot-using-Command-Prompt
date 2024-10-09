@@ -11,12 +11,12 @@
 chkdsk
  and hit Enter.
 
-![chkdsk command prompt](https://github.com/user-attachments/assets/dc637c62-2731-40dc-93a1-c85d4d24e253){: width="600px"}
+![chkdsk command prompt](https://github.com/user-attachments/assets/dc637c62-2731-40dc-93a1-c85d4d24e253)
 
 
 After checking several minutes and without **Error**, here's what it looks like:
 
-![chkdsk result](https://github.com/user-attachments/assets/47a1f8e5-cb62-4c91-87a8-2b9b90604ab5){: width="600px"}
+![chkdsk result](https://github.com/user-attachments/assets/47a1f8e5-cb62-4c91-87a8-2b9b90604ab5)
 
 > [!WARNING]
 > If the Check Disk Error here's what you need to do.
@@ -31,7 +31,7 @@ After checking several minutes and without **Error**, here's what it looks like:
 chkdsk /r
  and hit Enter.
 
-![chkdsk repair result](https://github.com/user-attachments/assets/8fb7e04b-50d8-4b5d-be33-f44ae450d209){: width="600px"}
+![chkdsk repair result](https://github.com/user-attachments/assets/8fb7e04b-50d8-4b5d-be33-f44ae450d209)
 
 > [!TIP]
 > Another tip for troubleshooting using a cmd.
@@ -46,7 +46,7 @@ chkdsk /r
 sfc /scannow
  and hit Enter.
 
-![sfc scannow result](https://github.com/user-attachments/assets/eed46299-3a98-40ff-884f-a4ebfc002c7c){: width="600px"}
+![sfc scannow result](https://github.com/user-attachments/assets/eed46299-3a98-40ff-884f-a4ebfc002c7c)
 
 ## **Network Troubleshoot**
 
