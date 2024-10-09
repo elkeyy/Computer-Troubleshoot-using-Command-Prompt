@@ -13,6 +13,8 @@ chkdsk
 
 ![chkdsk command prompt](https://github.com/user-attachments/assets/dc637c62-2731-40dc-93a1-c85d4d24e253)
 
+![374924597-dc637c62-2731-40dc-93a1-c85d4d24e253](https://github.com/user-attachments/assets/60691a44-6a6d-464f-9182-ba10ea4bfc6e)
+
 
 After checking several minutes and without **Error**, here's what it looks like:
 
