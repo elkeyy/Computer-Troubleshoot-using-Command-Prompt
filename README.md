@@ -44,6 +44,23 @@ Then wait for a several minutes for automatic repairing your storage.
 
 ![374935622-eed46299-3a98-40ff-884f-a4ebfc002c7c](https://github.com/user-attachments/assets/27ff3372-c616-45d8-b119-cc9aa32a54f8)
 
+### **clean (DiskPart)**
+- The _**clean**_ command in DiskPart is used to remove all partitions and volumes from the selected disk. This effectively wipes the disk, making it appear as if it were new and uninitialized.
+
+> [!WARNING]
+> Make sure that it is backed up before you **clean** the partitions.
+  
+#### Here's how to use it:
+1. Find the cmd prompt.
+2. **Run as Administrator** to have the necessary permissions.
+3. Type ```Diskpart```and hit Enter.
+4. Type ```List Disk```and hit Enter.
+5. Type ```Select Disk 0,1,2,3...``` (which disk number you want to work with) and hit Enter.
+6. Type ```Clean```and hit Enter.
+7. Exit
+
+![diskpart](https://github.com/user-attachments/assets/85bb08af-a463-4e70-89ea-5fdc8d17f8f2)
+
 ## **Network Troubleshoot**
 
 ### **ipconfig**
