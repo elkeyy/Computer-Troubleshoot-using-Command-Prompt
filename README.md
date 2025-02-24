@@ -40,6 +40,7 @@ Then wait for a several minutes for automatic repairing your storage.
 ## 3. **chkdsk /x**
 
 
+# 
 > [!TIP]
 > Another tip for troubleshooting using a cmd.
 
