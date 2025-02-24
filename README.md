@@ -15,11 +15,11 @@ After checking several minutes and without **Error**, here's what it looks like:
 
 ![374925612-47a1f8e5-cb62-4c91-87a8-2b9b90604ab5](https://github.com/user-attachments/assets/81e9c92b-9165-4855-892f-79a31c8d5459)
 
-> [!WARNING]
-> If the Check Disk Error here's what you need to do.
-
 > [!TIP]
 > There are 3 types of way to use it.
+
+> [!WARNING]
+> If the Check Disk Error here's what you need to do.
 
 ### **chkdsk /r**
 - This variant of the chkdsk command locates bad sectors on the disk and attempts to recover readable information from them.
