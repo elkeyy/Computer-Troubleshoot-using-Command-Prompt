@@ -21,7 +21,10 @@ After checking several minutes and without **Error**, here's what it looks like:
 > [!WARNING]
 > If the Check Disk Error here's what you need to do.
 
-## 1. **chkdsk /r**
+## 1. **chkdsk /f**
+
+
+## 2. **chkdsk /r**
 - This variant of the chkdsk command locates bad sectors on the disk and attempts to recover readable information from them.
 
 #### Here's how to use it:
@@ -33,6 +36,9 @@ After checking several minutes and without **Error**, here's what it looks like:
 ![374927523-8fb7e04b-50d8-4b5d-be33-f44ae450d209](https://github.com/user-attachments/assets/111b644c-b8b9-429f-b859-f518b806745a)
 
 Then wait for a several minutes for automatic repairing your storage.
+
+## 3. **chkdsk /x**
+
 
 > [!TIP]
 > Another tip for troubleshooting using a cmd.
