@@ -22,7 +22,13 @@ After checking several minutes and without **Error**, here's what it looks like:
 > If the Check Disk Error here's what you need to do.
 
 ## 1. **chkdsk /f**
+- Finds and fixes errors on the disk. **(NOT LOCATING BAD SECTORS)**
 
+#### Here's how to use it:
+1. Find the cmd prompt
+2. **Run as Administrator** to have the necessary permissions.
+3. Type ```chkdsk /f``` and hit Enter.
+4. Type ```Y``` (Yes) and hit Enter.
 
 ## 2. **chkdsk /r**
 - This variant of the chkdsk command locates bad sectors on the disk and attempts to recover readable information from them.
@@ -38,7 +44,17 @@ After checking several minutes and without **Error**, here's what it looks like:
 Then wait for a several minutes for automatic repairing your storage.
 
 ## 3. **chkdsk /x**
+- Forces the drive to dismount **(disconnects it temporarily from Windows)** so the scan can happen safely.
 
+#### Here's how to use it:
+1. Find the cmd prompt
+2. **Run as Administrator** to have the necessary permissions.
+3. Type ```chkdsk /x``` and hit Enter.
+4. Type ```Y``` (Yes) and hit Enter.
+
+> [!TIP]
+> You can use them all at one line if you wanted to completley chkdsk.
+> Use the command line **CHKDSK /f /r /x**
 
 # 
 > [!TIP]
