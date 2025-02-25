@@ -54,7 +54,7 @@ Then wait for a several minutes for automatic repairing your storage.
 
 > [!TIP]
 > You can use them all at one line if you wanted to completley chkdsk.
-> Use the command line **CHKDSK /f /r /x**
+> Use the command line ```CHKDSK /f /r /x```
 
 # 
 > [!TIP]
