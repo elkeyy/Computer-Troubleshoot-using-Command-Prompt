@@ -53,7 +53,7 @@ Then wait for a several minutes for automatic repairing your storage.
 4. Type ```Y``` (Yes) and hit Enter.
 
 > [!TIP]
-> You can use them all at one line if you wanted to completley chkdsk.
+> You can use them all at one line if you wanted to completly chkdsk.
 > Use the command line ```CHKDSK /f /r /x```
 
 # 
